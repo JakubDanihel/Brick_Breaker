@@ -1,5 +1,5 @@
 # Brick_Breaker
-Jednoducha hra Brick Breaker napisana v Java
+Jednoducha hra Brick Breaker napisana v Java - wip
 
 java: "18.0.1.1" 2022-04-22
 
